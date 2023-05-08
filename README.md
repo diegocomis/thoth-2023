@@ -17,7 +17,7 @@ https://www.creative-tim.com/product/argon-dashboard-laravel
 ## Passo a passo para Configuração inicial
 Clone Repositório
 ```sh
-git clone -b https://github.com/Thoth2023/thoth2.0.git
+git clone -b https://github.com/diegocomis/thoth-2023.git
 ```
 Crie o Arquivo .env
 ```sh
